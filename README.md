@@ -18,26 +18,8 @@
 
 ### 1. 텍스트 전처리
 
-#### 1.1 Tokenization (토큰화)
-
-#### 1.2 Cleaning / Normalization (정제 / 정규화)
-
-#### 1.3 Stemming / Lemmatization (어간 / 표제어 추출)
-
-#### 1.4 Stopword (불용어)
-
-#### 1.5 Regular Expression (정규 표현식)
-
-#### 1.6 Integer Encoding (정수 인코딩)
-
-#### 1.7 Padding (패딩)
-
-#### 1.8 One-Hot Encoding (원-핫 인코딩)
-
-#### 1.9 Splitting Data (데이터의 분리)
-
-#### 1.10 Text Preprocessing Tools for Korean Text (한국어 전처리 패키지)
+- 정리 : https://codong.tistory.com/32
 
 
 ### reference
-- 
+- https://wikidocs.net/book/2155
