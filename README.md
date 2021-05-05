@@ -11,15 +11,17 @@
 - python 3.7.10
 - tensorflow == 2.1.0
 
-### 목차
-1. [텍스트 전처리](#1-텍스트-전처리)
-
-
-
 ### 1. 텍스트 전처리
 
 - 정리 : https://codong.tistory.com/32
 
+### 2. 언어 모델
+
+- 정리 : https://codong.tistory.com/33
+
+### 3. 카운트 기반의 단어 표현
+
+- 정리 : https://codong.tistory.com/34
 
 ### reference
 - https://wikidocs.net/book/2155
