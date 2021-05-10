@@ -14,6 +14,8 @@
 ### 1. 텍스트 전처리
 
 - 정리 : https://codong.tistory.com/32
+- 정수 인코딩 예제 : https://github.com/Park-DongHo/NLP_self_study/blob/main/scripts/Integer_Encoding.ipynb
+- 패딩 예제 : https://github.com/Park-DongHo/NLP_self_study/blob/main/scripts/Padding.ipynb
 
 ### 2. 언어 모델
 
@@ -22,6 +24,7 @@
 ### 3. 카운트 기반의 단어 표현
 
 - 정리 : https://codong.tistory.com/34
+- 예제 : https://github.com/Park-DongHo/NLP_self_study/blob/main/scripts/Count_based_word_Representation.ipynb
 
 ### reference
 - https://wikidocs.net/book/2155
